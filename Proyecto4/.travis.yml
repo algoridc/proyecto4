@@ -1,4 +1,3 @@
-os: windows
 language: java
 notifications:
   slack: uclm-grupo:cRvSEFjvWeejiWYuGGXixNFE
