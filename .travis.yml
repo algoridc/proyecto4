@@ -1,0 +1,6 @@
+language: java
+script: 
+  - cd Proyecto4 
+  - mvn test
+notifications:
+  slack: uclm-grupo:cRvSEFjvWeejiWYuGGXixNFE
