@@ -3,7 +3,4 @@ script:
   - cd Proyecto4 
   - mvn test
 notifications:
-  slack: 
-    on_success: always
-    rooms:
-      - uclm-grupo:OcuNqQlCgrNuKQAzvdJMzbce#general
+  slack: uclm-grupo:cRvSEFjvWeejiWYuGGXixNFE
