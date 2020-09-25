@@ -3,4 +3,4 @@ script:
   - cd Proyecto4 
   - mvn test
 notifications:
-  slack:uclm-grupo:OcuNqQlCgrNuKQAzvdJMzbce
+  slack: uclm-grupo:OcuNqQlCgrNuKQAzvdJMzbce
