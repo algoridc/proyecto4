@@ -45,6 +45,29 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>mongo-java-driver</artifactId>
+    <version>3.5.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.mongodb/mongodb-driver -->
+<dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>mongodb-driver</artifactId>
+    <version>3.5.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.mongodb/bson -->
+<dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>bson</artifactId>
+    <version>3.5.0</version>
+</dependency>
+<dependency>
+        <groupId>org.mongodb</groupId>
+        <artifactId>mongodb-driver-core</artifactId>
+        <version>3.5.0</version>
+    </dependency>
 	</dependencies>
 
 	<build>
